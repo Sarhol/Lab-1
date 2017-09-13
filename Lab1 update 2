@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<meta charset="UTF-8">
+
+	<title>ITMD-361 Internet Technologies and Web Design</title>
+
+</head>
+
+
+<body>
+
+<header> 
+<h1>My name is Sarah Holland.</h1>
+<h2> I was born and raised right here in Illinois. </h2>
+
+
+	<p> I like to read and write short stories. </p>
+	<p> I have 3 dogs </p>
+	<p> I don't live on campus, but i want to make more friends! </p>
+</header>
+</body>
+
+</html>
